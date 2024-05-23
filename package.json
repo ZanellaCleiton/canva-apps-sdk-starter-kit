@@ -78,5 +78,6 @@
     "webpack-cli": "^4.10.0",
     "webpack-dev-server": "^4.10.0",
     "yargs": "^17.5.1"
+    npm install
   }
 }
